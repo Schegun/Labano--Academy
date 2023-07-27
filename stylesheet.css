@@ -1,0 +1,21 @@
+body {
+		color: green;
+		font-family: verdana, Arial, Geneva;
+		}
+		.red {
+		color: red;
+		font-size: 29;
+		}
+		p.green {
+		color: green;
+		font-size: 35;
+		}
+		p.indigo {
+		color: indigo;
+		font-size: 45;
+		}
+		.underline {
+		text-decoration: underline;
+		}
+		h1, h2 {
+		border-bottom: 3px solid black;
